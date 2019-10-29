@@ -18,3 +18,5 @@
 
 ##### batterylevel        ->>>cross-platform
 
+##### flutter localizations      
+
