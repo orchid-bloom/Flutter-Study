@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
 //            ParentWidget(),
 //            ParentWidgetC(),
 //            ParentWidgetC(),
-//            TextComponent(),
+//              TextComponent(),
 //            ButtonComponent(),
 //            ImageComponent(),
 //            SwitchAndCheckBoxComponent(),

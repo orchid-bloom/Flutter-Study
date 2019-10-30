@@ -2,10 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:io';
 import 'dart:convert';
 import 'dart:async';
-import 'package:flutter/foundation.dart';
 import 'package:path_provider/path_provider.dart';
-
-
 
 class NetworkWidget extends StatelessWidget {
 
